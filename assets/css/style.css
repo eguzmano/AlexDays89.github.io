@@ -7,6 +7,11 @@
     width: 100%;
 }
 
+.logoAD {
+    align-items: center;
+    font-weight: bold;
+}
+
 .fotocv {
     width: 100%;
     height: 100%;
@@ -36,14 +41,62 @@
 }
 
 .listacuerpo1 {
-   border: none
+    border: none;
+    gap: 10px;
+    display: flex;
+    align-items: flex-start;
+ }
+ 
+.logo {
+    width: 100px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.listacuerpo2 {
-    border: none;
-    padding-left: 20px;
+.logo img {
+    max-width: 80%;
+    height: auto;
+    object-fit: contain;
+}
+ .listacuerpo1 h3 {
+     margin: 0;
+     font-size: 1.1em;
+     font-weight: bold;
+ }
+
+ .listacuerpo1 p {
+     color: #6c757d;
+     margin: 0;
+     font-size: 0.9em;
+ }
+ 
+ .cargos {
+     display: flex;
+     align-items: flex-start;
+     margin-top: 10px;
+ }
+ .cargos h4 {
+     margin: 0;
+     font-size: 1.0em;
+ }
+ 
+ .cargos p {
+     color: #6c757d;
+     margin: 0;
+     font-size: 0.9em;
+ }
+
+.bullet {
+    width: 10px;
+    height: 10px;
+    background-color: #6c757d;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-top: 8px;
 }
 
 .piedepagina {
     text-align: center;
-}
+}    
