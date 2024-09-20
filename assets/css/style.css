@@ -100,3 +100,29 @@
 .piedepagina {
     text-align: center;
 }    
+
+#galeriaportafolio{
+    margin: 0 auto;
+    margin-top: 100px;
+    max-width: 850px;
+}
+
+.carousel-item img {
+    width: 100%;
+    max-width: 800px;
+    height: 500px;
+    object-fit: contain; 
+}
+
+.carousel-caption-outside {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #f8f9fa;
+    color: #333; 
+    margin-top: 10px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 5%; /* Ajusta el ancho de los controles */
+}
