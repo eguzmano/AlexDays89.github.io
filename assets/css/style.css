@@ -1,127 +1,127 @@
 .datospersonales {
-    background-color: #f5f5f5;
-    padding: 30px 20px 30px 40px;
-    margin: 100px 0 0 0;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 100%;
+  background-color: #f5f5f5;
+  padding: 30px 20px 30px 40px;
+  margin: 100px 0 0 0;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
 }
 
 .logoAD {
-    align-items: center;
-    font-weight: bold;
+  align-items: center;
+  font-weight: bold;
 }
 
 .fotocv {
-    width: 100px;
-    height: auto;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 100px;
+  height: auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .datos1 {
-    align-content: center;
+  align-content: center;
 }
 
 .subtitulo {
-    font-size: 18px;
-    color: #333;
-    margin: 0 0 10px 0;
+  font-size: 18px;
+  color: #333;
+  margin: 0 0 10px 0;
 }
 
 .maincurriculum {
-    width: 100%;
+  width: 100%;
 }
 .cuerpocurriculum {
-    background-color: #f5f5f5;
-    padding: 20px;
-    margin-top: 0px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #f5f5f5;
+  padding: 20px;
+  margin-top: 0px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .listacuerpo1 {
-    border: none;
-    gap: 10px;
-    display: flex;
-    align-items: flex-start;
- }
- 
+  border: none;
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+
 .logo {
-    width: 100px;
-    height: auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  width: 100px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .logo img {
-    max-width: 80%;
-    height: auto;
-    object-fit: contain;
+  max-width: 80%;
+  height: auto;
+  object-fit: contain;
 }
- .listacuerpo1 h3 {
-     margin: 0;
-     font-size: 1.1em;
-     font-weight: bold;
- }
+.listacuerpo1 h3 {
+  margin: 0;
+  font-size: 1.1em;
+  font-weight: bold;
+}
 
- .listacuerpo1 p {
-     color: #6c757d;
-     margin: 0;
-     font-size: 0.9em;
- }
- 
- .cargos {
-     display: flex;
-     align-items: flex-start;
-     margin-top: 10px;
- }
- .cargos h4 {
-     margin: 0;
-     font-size: 1.0em;
- }
- 
- .cargos p {
-     color: #6c757d;
-     margin: 0;
-     font-size: 0.9em;
- }
+.listacuerpo1 p {
+  color: #6c757d;
+  margin: 0;
+  font-size: 0.9em;
+}
+
+.cargos {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 10px;
+}
+.cargos h4 {
+  margin: 0;
+  font-size: 1em;
+}
+
+.cargos p {
+  color: #6c757d;
+  margin: 0;
+  font-size: 0.9em;
+}
 
 .bullet {
-    width: 10px;
-    height: 10px;
-    background-color: #6c757d;
-    border-radius: 50%;
-    margin-right: 10px;
-    margin-top: 8px;
+  width: 10px;
+  height: 10px;
+  background-color: #6c757d;
+  border-radius: 50%;
+  margin-right: 10px;
+  margin-top: 8px;
 }
 
 .piedepagina {
-    text-align: center;
-}    
+  text-align: center;
+}
 
-#galeriaportafolio{
-    margin: 0 auto;
-    margin-top: 100px;
-    max-width: 850px;
+#galeriaportafolio {
+  margin: 0 auto;
+  margin-top: 100px;
+  max-width: 850px;
 }
 
 .carousel-item img {
-    width: 100%;
-    max-width: 800px;
-    height: 500px;
-    object-fit: contain; 
+  width: 100%;
+  max-width: 800px;
+  height: 500px;
+  object-fit: contain;
 }
 
 .carousel-caption-outside {
-    text-align: center;
-    padding: 10px 0;
-    background-color: #f8f9fa;
-    color: #333; 
-    margin-top: 10px;
+  text-align: center;
+  padding: 10px 0;
+  background-color: #f8f9fa;
+  color: #333;
+  margin-top: 10px;
 }
 
 .carousel-control-prev,
 .carousel-control-next {
-    width: 5%;
+  width: 5%;
 }
