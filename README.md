@@ -1,16 +1,19 @@
 # AlexDays89.github.io
 Prueba final módulo 1 DesafíoLatam
 
-Mi repo
-https://github.com/AlexDays89/AlexDays89.github.io
+Mi página <br>
+https://alexdays89.github.io/ <br>
 
-Fork y Commit 1
+Mi repo<br>
+https://github.com/AlexDays89/AlexDays89.github.io
+<br>
+Fork y Commit 1<br>
 https://github.com/AlexDays89/MrJoseV.github.io.git <br>
 https://github.com/AlexDays89/MrJoseV.github.io/commits/master/
 
-Fork y Commit 2
+Fork y Commit 2<br>
 https://github.com/AlexDays89/portafolio-y-cv <br>
-https://github.com/AlexDays89/portafolio-y-cv/commits/main/
+https://github.com/AlexDays89/portafolio-y-cv/commits/main/ <br>
 
 ![Fork1](https://github.com/user-attachments/assets/4ef0eed0-b659-48ad-aef5-0a09b7f871cb)
 
